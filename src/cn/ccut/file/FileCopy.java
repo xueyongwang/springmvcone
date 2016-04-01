@@ -48,7 +48,7 @@ public class FileCopy {
     	String inputPath="e:/12.txt";
     	String outputPath="f:34.txt";
         FileCopy fileCopy=new FileCopy(inputPath, outputPath);
-        fileCopy.copy2();
+        fileCopy.copy2();//测试一下提交
     }  
   
 }  
